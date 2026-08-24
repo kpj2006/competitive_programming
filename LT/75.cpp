@@ -14,7 +14,6 @@ public:
             else{
                 swap(*m,*h);
                 h--;
-                m++;
             }
         }
 
